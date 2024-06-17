@@ -87,6 +87,7 @@
             this.Result.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.Result.Location = new System.Drawing.Point(34, 329);
             this.Result.Name = "Result";
+            this.Result.ReadOnly = true;
             this.Result.Size = new System.Drawing.Size(1132, 63);
             this.Result.TabIndex = 5;
             // 
